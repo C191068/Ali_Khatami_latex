@@ -42,6 +42,9 @@ After that ,
 figure14: after that click the TeXmaker option<br>
 
 
+![l15](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/c2848a4d-39c0-4bd2-8417-49e465892daf)
+Figure15: click the ```Download``` button<br>
+
 
 
 
@@ -55,5 +58,11 @@ Fig1: configure at windows
 ![latex2](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/525f15e3-34e2-43e0-ad4f-d9ac3bc4b58e)
 Figure2: we have to tick mark the ```Embed``` at pdf viewer to keep pdf on the right and code on the left <br>
 also tick mark ``Launch the Clean tool when exiting texmaker``` <br>
+
+
+
+
+
+<br><br>
 
 
