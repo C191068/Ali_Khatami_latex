@@ -79,6 +79,8 @@ Figure25: before writing save it<br>
 ![l25](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/ea14f233-3931-416b-8964-f6e70dfe07e7)
 figure26: don't use spaces in file name 
 
+![l26](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/cf259194-d3cb-4e5d-ab50-3407369ccc06)
+figure27: the latex file in the folder
 
 
 
