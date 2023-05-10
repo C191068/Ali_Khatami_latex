@@ -1,5 +1,7 @@
 ## Ali_Khatami_latex(Learning from the video of Michelle Krummel)
-### Configure
+### Download latex locally at windows pc
+
+At first goto this link 
 
 ![latex1](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/61326b47-b469-4e35-befb-ad99efaa8344)
 Fig1: configure at windows
