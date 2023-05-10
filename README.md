@@ -54,6 +54,10 @@ Figure17: it will take about 81 MB
 
 ![l20](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/2c22e4d1-38a4-4918-b522-f36d2b09f89d)
 
+![l22](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/051c8dd5-fb60-4f57-b0e6-d3d3022752be)
+Figure20: better to keep font size equal to 10<br>
+
+
 Then,<br>
 
 ![latex1](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/61326b47-b469-4e35-befb-ad99efaa8344)
