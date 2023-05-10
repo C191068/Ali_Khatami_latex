@@ -76,6 +76,10 @@ figure24: click here at new butt9on to open new document
 ![l24](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/71cedabe-cd2f-4ad2-973f-0a7dc0650952)
 Figure25: before writing save it<br>
 
+![l25](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/ea14f233-3931-416b-8964-f6e70dfe07e7)
+figure26: don't use spaces in file name 
+
+
 
 
 
