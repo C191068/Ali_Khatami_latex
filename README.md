@@ -50,6 +50,11 @@ figure16: then click the ```Download``` button<br>
 
 ![l17](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/aeed7937-39c0-4d2d-ab3b-cd6075f36b96)
 Figure17: it will take about 81 MB
+![l19](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/0c51461a-2efd-4e1e-b226-08d9a925b756)
+
+![l20](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/2c22e4d1-38a4-4918-b522-f36d2b09f89d)
+
+
 
 
 
