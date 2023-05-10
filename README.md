@@ -86,6 +86,8 @@ figure27: the latex file in the folder
 ![l27](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/94fd3dfa-f357-4505-8746-b3f68f86d556)
 Figure28: click the F1 button on the keyboard<br>
 
+To use line break we use ```\\``` sign<br>
+
 
 
 
