@@ -89,8 +89,10 @@ Figure28: click the F1 button on the keyboard<br>
 To use line break we use ```\\``` sign<br>
 To make anything math mode start and end like this ```$(x+1)$``` <br>
 
+![l29](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/2aabdd4e-e8ea-4631-8c9a-8c1d14ebe2a4)
+Figure29: first document
 
-
+here ```${A(x)=x^2+4x+3}$``` we ```{}``` within the equation helps to keep the equation in one line <br>
 
 
 
