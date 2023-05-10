@@ -9,6 +9,9 @@ Figure1: then click here at windows pc at ```MikTEX```<br>
 ![l2](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/1d62ccac-10b2-42eb-8d1c-60b9b99578fa)
 figure2: going at windows click ```download``` button<br>
 
+![l3](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/0bd8d579-1e2c-4618-a338-e76094fb9da0)
+figure3: it will require about 135 MB
+
 
 
 
