@@ -12,6 +12,27 @@ figure2: going at windows click ```download``` button<br>
 ![l3](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/0bd8d579-1e2c-4618-a338-e76094fb9da0)
 figure3: it will require about 135 MB
 
+instal it in the following way
+
+![l4](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/97b46d6f-e8c9-4ac6-9b46-0352bcbb3748)
+
+![l5](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/25bcc3a0-e380-423f-81e4-b4220d66f6c7)
+
+![l6](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/eb302d12-15bb-4ae2-8c76-d06ceaf248ff)
+
+![l7](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/4ea90544-0aa2-4dbd-bddf-1f776f4f92f4)
+
+![l8](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/6edef424-22c3-4654-b6e9-4b393a7e18a2)
+
+![l9](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/549698ab-13ac-4b5d-899f-de8c7e290e25)
+
+![l10](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/3c8f3b57-97bb-4ca8-a2f0-74bd8ef92ca7)
+
+
+
+
+
+
 
 
 
