@@ -69,6 +69,10 @@ also tick mark ``Launch the Clean tool when exiting texmaker``` <br>
 ![l21](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/dc3801e1-4e41-49e4-a90b-2902ba47d60d)
 Figure23: tick mark the record backup of opened every files every 10 minutes<br>
 
+![l23](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/73fddcf0-2949-4f3b-8225-2f9dd3c0e102)
+figure24: click here 
+
+
 
 
 
