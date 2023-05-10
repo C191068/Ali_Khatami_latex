@@ -28,6 +28,16 @@ instal it in the following way
 
 ![l10](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/3c8f3b57-97bb-4ca8-a2f0-74bd8ef92ca7)
 
+![l11](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/d859efef-8844-42e7-98f9-11e71c36ea1f)
+
+![l12](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/06c52ef1-98fb-4195-a4ac-8b23443d2849)
+
+
+![l13](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/eaf3df89-4abb-4b63-8202-5ba4ac3e194a)
+
+
+
+
 
 
 
