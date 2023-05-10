@@ -87,6 +87,8 @@ figure27: the latex file in the folder
 Figure28: click the F1 button on the keyboard<br>
 
 To use line break we use ```\\``` sign<br>
+To make anything math mode start and end like this ```$(x+1)$``` <br>
+
 
 
 
