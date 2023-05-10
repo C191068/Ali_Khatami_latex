@@ -54,21 +54,17 @@ Figure17: it will take about 81 MB
 
 ![l20](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/2c22e4d1-38a4-4918-b522-f36d2b09f89d)
 
-
-
-
-
-
-
-
-
-
+Then,<br>
 
 ![latex1](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/61326b47-b469-4e35-befb-ad99efaa8344)
-Fig1: configure at windows
+Fig21: configure at windows
 ![latex2](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/525f15e3-34e2-43e0-ad4f-d9ac3bc4b58e)
-Figure2: we have to tick mark the ```Embed``` at pdf viewer to keep pdf on the right and code on the left <br>
+Figure22: we have to tick mark the ```Embed``` at pdf viewer to keep pdf on the right and code on the left <br>
 also tick mark ``Launch the Clean tool when exiting texmaker``` <br>
+
+![l21](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/dc3801e1-4e41-49e4-a90b-2902ba47d60d)
+Figure23: tick mark the record backup of opened every files every 10 minutes<br>
+
 
 
 
