@@ -73,6 +73,9 @@ Figure23: tick mark the record backup of opened every files every 10 minutes<br>
 figure24: click here at new butt9on to open new document 
 
 
+![l24](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/71cedabe-cd2f-4ad2-973f-0a7dc0650952)
+Figure25: before writing save it<br>
+
 
 
 
