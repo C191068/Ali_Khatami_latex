@@ -35,8 +35,11 @@ instal it in the following way
 
 ![l13](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/eaf3df89-4abb-4b63-8202-5ba4ac3e194a)
 
+After that ,
 
+![l14](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/5f00dea1-b5ae-43ad-80f5-74df8ec17d1c)
 
+figure14: after that click the TeXmaker option<br>
 
 
 
