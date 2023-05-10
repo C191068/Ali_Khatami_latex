@@ -45,6 +45,8 @@ figure14: after that click the TeXmaker option<br>
 ![l15](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/c2848a4d-39c0-4bd2-8417-49e465892daf)
 Figure15: click the ```Download``` button<br>
 
+![l16](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/aa210011-92da-4ba6-938e-f6ef1c19f26c)
+figure16: then click the ```Download``` button<br>
 
 
 
