@@ -140,6 +140,10 @@ Figure35: If we use ```$$x_1$$``` it will show the above output<br>
 ![l9](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/2b511580-2eb6-4287-8892-cb79cdb3f77f)
 Figure36: if we ```$$x_12$$``` we will get the above output<br>
 
+![l10](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/d9f234b0-6401-45dc-b330-513a5c0196eb)
+Figure37: if we use ```$$x_{12}$$``` we will get the above output<br>
+
+
 
 
 
