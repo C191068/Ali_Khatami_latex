@@ -126,6 +126,16 @@ Figure31: if we write the superscript like ```$$2x^34$$``` only one number ```3`
 
 Figure32: if we use ```$$2x^{34}$$``` the the output should be like above <br>
 
+![l6](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/a9840745-e85d-4022-b346-b5353240cc6d)
+
+figure33: if we use ```$$2x^{3x+4}$$``` then it will show the above output<br>
+
+![l7](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/df76d3d5-7f94-44f7-90aa-ae7abad66f4d)
+Figure34: if we use ```$$3x^{4x^5+6}$$``` it will show the above output<br>
+
+
+
+
 
 
 
