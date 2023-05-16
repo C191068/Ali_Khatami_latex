@@ -119,6 +119,16 @@ and at ending point and it will show the output above<br>
 Here in this line ```\documentclass[11pt]{article}``` in the square brackets ```[]``` ,```11pt``` refers to font size and it is optional<br>
 and in the curly brackets ```{}``` , ```article``` is the type of document<br>
 
+![l4](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/3b198158-4609-4088-9cbb-95dd9828921a)
+Figure31: if we write the superscript like ```$$2x^34$$``` only one number ```3``` will be superscript<br>
+
+![l5](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/a5b6dede-a99c-4e03-9336-a1068a7bc1c8)
+
+Figure32: if we use ```$$2x^{34}$$``` the the output should be like above <br>
+
+
+
+
 
 
 
