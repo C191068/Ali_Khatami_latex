@@ -116,6 +116,9 @@ and at ending point and it will show the output above<br>
 
 ### Commnon mtahematical notation using latex
 
+Here in this line ```\documentclass[11pt]{article}``` in the square brackets ```[]``` ,```11pt``` refers to font size and it is optional<br>
+and in the curly brackets ```{}``` , ```article``` is the type of document<br>
+
 
 
 
