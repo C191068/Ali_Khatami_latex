@@ -155,7 +155,10 @@ Figure39: if we use ```$$x_{1_{2_3}}$$``` it will show the bove output <br>
 figure40: if we use ```$$n_0,n_1,n_2,\ldots,n_{100}$$``` it will show the above output<br>
 
 ![l14](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/ce5c7373-6af0-4cd4-ba18-d4533613a6b1)
-figure41: if we use ```$$\pi$$``` it will show the above output<br>
+figure41: if we use ```$$\pi$$``` it will show the above output for lowercase letter pi<br>
+
+![l15](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/39efd196-d6de-44c7-a6c5-1bdf5aa09134)
+figure42: if we use ```$$\Pi$$``` it will show tyhe above output<br>
 
 
 
