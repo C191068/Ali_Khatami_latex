@@ -146,6 +146,9 @@ Figure37: if we use ```$$x_{12}$$``` we will get the above output<br>
 ![l11](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/d3ce736f-5bd3-4bb1-9a77-7f81274cbfa7)
 figure38: if we use ```$$x_{1_2}$$``` it means ```x sub 1 sub 2``` it will show the above output <br>
 
+![l12](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/7e9107b3-3818-4af0-b946-b713ae501ec9)
+Figure39: if we use ```$$x_{1_{2_3}}$$``` it will show the bove output <br>
+
 
 
 
