@@ -107,7 +107,7 @@ Figure30: to work with dispaly math mode we have to use the above  double ```$$`
 and at ending point and it will show the output above<br>
 
 
-
+```$(x+1)$``` is ```Inline Displayed math mode```
 
 
 
