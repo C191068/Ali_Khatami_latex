@@ -151,6 +151,10 @@ Figure39: if we use ```$$x_{1_{2_3}}$$``` it will show the bove output <br>
 
 ```\ldots``` will give three dots and ```l``` stands for lower alignment<br>
 
+![l13](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/48e0e5d3-b8bf-418e-9ea4-52da459e910b)
+figure40: if we use ```$$n_0,n_1,n_2,\ldots,n_{100}$$``` it will show the above output<br>
+
+
 
 
 
