@@ -149,6 +149,8 @@ figure38: if we use ```$$x_{1_2}$$``` it means ```x sub 1 sub 2``` it will show 
 ![l12](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/7e9107b3-3818-4af0-b946-b713ae501ec9)
 Figure39: if we use ```$$x_{1_{2_3}}$$``` it will show the bove output <br>
 
+```\ldots``` will give three dots and ```l``` stands for lower alignment<br>
+
 
 
 
