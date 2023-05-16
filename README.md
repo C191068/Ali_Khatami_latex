@@ -154,6 +154,8 @@ Figure39: if we use ```$$x_{1_{2_3}}$$``` it will show the bove output <br>
 ![l13](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/48e0e5d3-b8bf-418e-9ea4-52da459e910b)
 figure40: if we use ```$$n_0,n_1,n_2,\ldots,n_{100}$$``` it will show the above output<br>
 
+![l14](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/ce5c7373-6af0-4cd4-ba18-d4533613a6b1)
+figure41: if we use ```$$\pi$$``` it will show the above output<br>
 
 
 
