@@ -143,6 +143,11 @@ Figure36: if we ```$$x_12$$``` we will get the above output<br>
 ![l10](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/d9f234b0-6401-45dc-b330-513a5c0196eb)
 Figure37: if we use ```$$x_{12}$$``` we will get the above output<br>
 
+![l11](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/d3ce736f-5bd3-4bb1-9a77-7f81274cbfa7)
+figure38: if we use ```$$x_{1_2}$$``` it means ```x sub 1 sub 2``` it will show the above output <br>
+
+
+
 
 
 
