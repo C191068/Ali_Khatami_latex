@@ -94,6 +94,10 @@ Figure29: first document
 
 here ```${A(x)=x^2+4x+3}$``` we ```{}``` within the equation helps to keep the equation in one line <br>
 
+There are two kinds of math modes:<br>
+1. Display Math mode<br>
+2. Inline Math mode<br>
+
 
 
 
