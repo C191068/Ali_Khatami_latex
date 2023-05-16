@@ -134,6 +134,10 @@ figure33: if we use ```$$2x^{3x+4}$$``` then it will show the above output<br>
 Figure34: if we use ```$$3x^{4x^5+6}$$``` it will show the above output<br>
 
 
+![l8](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/bb15b235-f51f-4145-87c6-5434ad3156ac)
+Figure35: If we use ```$$x_1$$``` it will show the above output<br>
+
+
 
 
 
