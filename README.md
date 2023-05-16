@@ -102,6 +102,11 @@ If we use Display math mode whatever is on dispaly math mode is gonna be on it's
 We often see this in math textbooks<br>
 
 
+![l3](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/e468de49-7d20-4136-9911-1519e0e561a4)
+Figure30: to work with dispaly math mode we have to use the above  double ```$$``` sign at starting <br>
+and at ending point and it will show the output above<br>
+
+
 
 
 
