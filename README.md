@@ -114,3 +114,9 @@ and at ending point and it will show the output above<br>
 <br><br>
 
 
+### Commnon mtahematical notation using latex
+
+
+
+
+
