@@ -98,6 +98,11 @@ There are two kinds of math modes:<br>
 1. Display Math mode<br>
 2. Inline Math mode<br>
 
+If we use Display math mode whatever is on dispaly math mode is gonna be on it's own line <br>
+We often see this in math textbooks<br>
+
+
+
 
 
 
