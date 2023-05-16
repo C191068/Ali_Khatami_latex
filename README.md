@@ -161,6 +161,7 @@ figure41: if we use ```$$\pi$$``` it will show the above output for lowercase le
 figure42: if we use ```$$\Pi$$``` it will show tyhe above output<br>
 
 
+![l16](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/300e9399-8eb2-40b3-94b0-34be725312d0)
 
 
 
