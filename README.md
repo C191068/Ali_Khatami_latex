@@ -164,15 +164,6 @@ figure42: if we use ```$$\Pi$$``` it will show tyhe above output<br>
 ![l16](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/300e9399-8eb2-40b3-94b0-34be725312d0)
 
 
-![l1](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/1af843bb-1042-4505-95ad-e7d33d231142)
-
-here we use the code below and the above output shows <br>
-
-```
-$$a_0,a_1,a_2, \ldots,a_{100}$$
-
-```
-here "l" stands for lower <br>
 
 
 
