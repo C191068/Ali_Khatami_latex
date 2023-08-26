@@ -172,6 +172,9 @@ here we use the code below and the above output shows <br>
 $$a_0,a_1,a_2, \ldots,a_{100}$$
 
 ```
+here "l" stands for lower <br>
+
+
 
 
 
