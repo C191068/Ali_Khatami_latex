@@ -172,8 +172,14 @@ $$y= \sin x$$
 
 ```
 
+![l3](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/7dd76079-8abd-473d-9d6e-56e93f9d8c6d)
 
+When we type the code below the above output shows <br>
 
+```
+$$y= \sin \theta$$
+
+```
 
 
 
