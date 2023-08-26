@@ -163,6 +163,15 @@ figure42: if we use ```$$\Pi$$``` it will show tyhe above output<br>
 
 ![l16](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/300e9399-8eb2-40b3-94b0-34be725312d0)
 
+![l2](https://github.com/C191068/Ali_Khatami_latex/assets/89090776/614043f3-a505-4391-92cc-34dc86b26ffa)
+
+We type the code below for the above output <br>
+
+```
+$$y= \sin x$$
+
+```
+
 
 
 
